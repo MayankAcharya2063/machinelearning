@@ -2,5 +2,5 @@ Requrements:
 Anaconda
 
 In VS CODE:
-Jupiter notebook
+Jupiter notebook and
 Python
